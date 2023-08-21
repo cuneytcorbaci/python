@@ -1,0 +1,5 @@
+print(123)
+print(98.6)
+print("Hello World")
+print("5+5")
+print(5+5)
